@@ -1,0 +1,6 @@
+main.c
+a.out
+libc.o
+libasm.so
+Tests.c
+tests.out
